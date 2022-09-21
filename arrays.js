@@ -15,3 +15,9 @@ ticketPrices.slice();
 // This method will remove the first element from the beginning of the array
 
 correctAnswer.shift();
+
+// An array contains a specific index position for each element beginning at 0
+// To access each value, you call the variable name follwed by [index position]
+// Using the above breakfastItems example to get to cereal
+
+breakfastItems[1];
